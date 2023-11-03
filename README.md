@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evan</h1>
+<h1 align="center">Hi, I'm Evan</h1>
 <h3 align="center">A passionate full-stack web developer from Halifax, Nova Scotia</h3>
 
 - 🌱 I’m currently learning **react-redux**
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/evanearle19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evanearle19" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/evan-earle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evan-earle" height="30" width="40" /></a>
+<a href="https://twitter.com/evanearle19" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evanearle19" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/evan-earle" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evan-earle" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
