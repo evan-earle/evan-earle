@@ -18,7 +18,7 @@
   </a>
 </p>
 
-Previously an Amazon Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Business Management.
+Driven, detail-oriented, professional with a well rounded set of skills across diverse industries. Equipped with over a decade’s worth of experience in team and project management. Seeking a tech company to hone my skills as a developer and contribute in a meaningful way.
 
 See [my website](https://evanearle.com) for more information!
 
