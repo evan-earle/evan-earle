@@ -34,55 +34,55 @@ See [my website](https://evanearle.com) for more information!
         </a>
         <br />
        
-<!-- <p align="center">
-   <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+ <p align="center">
+   <!-- <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="\https://shawncharles.com/travelara" target="_blank">
+  </a>   -->
+  <a href="https://mern-music-7kvn.onrender.com/auth" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
-      </p>  -->
+      </p>
 
-<p><strong>React, Express, Node.js, & MongoDB</strong> - Music player where users can search and play their favourite artists, find similar artists, and set their tracks to a favourites playlist. </p>
+<p><strong>React, Express, Node.js, MongoDB</strong> - Music player where users can search and play their favourite artists, find similar artists, and set their tracks to a favourites playlist. </p>
     </td>
 
 <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">SimpleWeather</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://mern-weather.onrender.com/auth">
+            <img src="./weather.jpg" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
+  <!-- <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
+  </a> -->
+  <a href="https://mern-weather.onrender.com/auth" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>React, Express, Node.js, MongoDB</strong> - A weather app to track forecasts and set your favourite locations.</p>
     </td>
   </tr>
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">Task Management App</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://mern-task-management.onrender.com/auth">
+          <img src="./task.jpg" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
+  <!-- <a href="https://github.com/CharlesCreativeContent/Portfolio2021" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="http://shawncharles.com" target="_blank">
+  </a> -->
+  <a href="https://mern-task-management.onrender.com/auth" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>React, Express, Node.js, MongoDB</strong> - An app to track daily tasks.</p>
     </td>
     <!-- <td width="50%" valign="top">
       <h3 align="center">Matching Cards</h3>
@@ -93,7 +93,7 @@ See [my website](https://evanearle.com) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
+  <!-- <a href="https://github.com/CharlesCreativeContent/matching-card-game" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://poke-matchcards.netlify.app" target="_blank">
