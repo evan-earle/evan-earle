@@ -27,7 +27,7 @@ See [my website](https://evanearle.com) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">MERN Music</h3>
+      <h3 align="center">Soundbloom</h3>
         <br />
         <a target="_blank" href="https://mern-music-7kvn.onrender.com/auth">
             <img src="./music.jpg" width="100%" alt="Music App"/>
@@ -47,7 +47,7 @@ See [my website](https://evanearle.com) for more information!
     </td>
 
 <td width="50%" valign="top">
-      <h3 align="center">SimpleWeather</h3>
+      <h3 align="center">WeatherCheck</h3>
         <br />
       <a target="_blank" href="https://mern-weather.onrender.com/auth">
             <img src="./weather.jpg" width="100%"  alt="weather"/>
@@ -82,7 +82,7 @@ See [my website](https://evanearle.com) for more information!
         <p><strong>React, Tailwind CSS</strong> - A product landing page for CCM.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Task Management App</h3>
+      <h3 align="center">TaskEase</h3>
       <br />
         <a target="_blank" href="https://mern-task-management.onrender.com/auth">
           <img src="./task.jpg" width="100%" alt="task management"/>
