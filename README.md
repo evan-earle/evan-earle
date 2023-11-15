@@ -71,7 +71,7 @@ See [my website](https://evanearle.com) for more information!
       <h3 align="center">CCM Landing Page</h3>
       <br />
         <a target="_blank" href="https://evan-earle.github.io/ccm-react-tailwind/">
-          <img src="./ccm.png" width="100%" alt="ccm"/>
+          <img src="./ccm.jpg" width="100%" alt="ccm"/>
         </a>
       <br />
         <p align="center">
