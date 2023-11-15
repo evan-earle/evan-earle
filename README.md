@@ -50,7 +50,7 @@ See [my website](https://evanearle.com) for more information!
       <h3 align="center">SimpleWeather</h3>
         <br />
       <a target="_blank" href="https://mern-weather.onrender.com/auth">
-            <img src="./weather.jpg" width="100%"  alt="Rigley 2"/>
+            <img src="./weather.jpg" width="100%"  alt="weather"/>
         </a>
         <br />
         <p align="center">
@@ -71,7 +71,7 @@ See [my website](https://evanearle.com) for more information!
       <h3 align="center">CCM Landing Page</h3>
       <br />
         <a target="_blank" href="https://evan-earle.github.io/ccm-react-tailwind/">
-          <img src="./ccm.png" width="100%" alt="Portfolio"/>
+          <img src="./ccm.png" width="100%" alt="ccm"/>
         </a>
       <br />
         <p align="center">
@@ -85,7 +85,7 @@ See [my website](https://evanearle.com) for more information!
       <h3 align="center">Task Management App</h3>
       <br />
         <a target="_blank" href="https://mern-task-management.onrender.com/auth">
-          <img src="./task.jpg" width="100%" alt="Portfolio"/>
+          <img src="./task.jpg" width="100%" alt="task management"/>
         </a>
       <br />
         <p align="center">
