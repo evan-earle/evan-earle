@@ -67,7 +67,6 @@ See [my website](https://evanearle.com) for more information!
   </tr>
   
   <tr>
-   
     <td width="50%" valign="top">
       <h3 align="center">TaskEase</h3>
       <br />
