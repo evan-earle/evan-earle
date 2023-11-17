@@ -67,20 +67,7 @@ See [my website](https://evanearle.com) for more information!
   </tr>
   
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">CCM Landing Page</h3>
-      <br />
-        <a target="_blank" href="https://evan-earle.github.io/ccm-react-tailwind/">
-          <img src="./ccm.jpg" width="100%" alt="ccm"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://evan-earle.github.io/ccm-react-tailwind/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React, Tailwind CSS</strong> - A product landing page for CCM.</p>
-    </td>
+   
     <td width="50%" valign="top">
       <h3 align="center">TaskEase</h3>
       <br />
@@ -95,6 +82,20 @@ See [my website](https://evanearle.com) for more information!
   </a>
       </p>
         <p><strong>React, Express, Node.js, MongoDB</strong> - An app to track daily tasks.</p>
+    </td>
+     <td width="50%" valign="top">
+      <h3 align="center">CCM Landing Page</h3>
+      <br />
+        <a target="_blank" href="https://evan-earle.github.io/ccm-react-tailwind/">
+          <img src="./ccmphoto.jpg" width="100%" alt="ccm"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://evan-earle.github.io/ccm-react-tailwind/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, Tailwind CSS</strong> - A product landing page for CCM.</p>
     </td>
   </tr>
     
