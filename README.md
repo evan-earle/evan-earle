@@ -49,7 +49,7 @@ See [my website](https://evanearle.com) for more information!
       <h3 align="center">FilmFindr</h3>
       <br />
         <a target="_blank" href="https://filmfindr-l0gn.onrender.com">
-          <img src="./task.jpg" width="100%" alt="task management"/>
+          <img src="./movies.jpg" width="100%" alt="task management"/>
         </a>
       <br />
         <p align="center">
