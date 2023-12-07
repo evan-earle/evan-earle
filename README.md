@@ -18,7 +18,7 @@
   </a>
 </p>
 
-Driven, detail-oriented, professional with a well rounded set of skills across diverse industries. Equipped with over a decade’s worth of experience in team and project management. Seeking a tech company to hone my skills as a developer and contribute in a meaningful way.
+Full stack developer with experience in both large-scale projects and building smaller applications from scratch. Skilled in building APIs and working with React, Node, Express, MongoDB, HTML, and CSS. Comfortable working independently or collaborating in teams with several years of experience working remotely.
 
 See [my website](https://evanearle.com) for more information!
 
