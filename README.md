@@ -20,11 +20,11 @@
 
 Full stack developer with experience in both large-scale projects and building smaller applications from scratch. Skilled in building APIs and responsive design working with React, Redux, Node, Express, MongoDB, Javascript, Typescript, HTML, and CSS. Comfortable working independently or collaborating in teams with several years of experience working remotely.
 
-𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: JavaScript, TypeScript, HTML, CSS
-𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬/𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬: React.js, Node.js, Express.js, Redux, Tailwind CSS, SASS, Bootstrap, Material-UI
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: MongoDB
-𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬: Firebase, AWS, Heroku, Netlify, Hosting Providers
-𝐓𝐞𝐬𝐭𝐢𝐧𝐠: Jest, Postman, React Testing Library, Unit Testing, Functional Testing, Developer Tools
+𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: JavaScript, TypeScript, HTML, CSS<br/>
+𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬/𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬: React.js, Node.js, Express.js, Redux, Tailwind CSS, SASS, Bootstrap, Material-UI<br/>
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: MongoDB<br/>
+𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬: Firebase, AWS, Heroku, Netlify, Hosting Providers<br/>
+𝐓𝐞𝐬𝐭𝐢𝐧𝐠: Jest, Postman, React Testing Library, Unit Testing, Functional Testing, Developer Tools<br/>
 𝐎𝐭𝐡𝐞𝐫 𝐒𝐤𝐢𝐥𝐥𝐬: Git, Github, Docker, VSCode, NPM, Vite, Webpack, REST APIs, CRUD operations, Mongoose, REST APIs, Agile Methodology, Scrum, JWT, OOP
 
 See [my website](https://evanearle.com) for more information!
