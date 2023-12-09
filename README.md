@@ -25,7 +25,7 @@ Full stack developer with experience in both large-scale projects and building s
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: MongoDB<br/>
 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬: Firebase, AWS, Heroku, Netlify, Hosting Providers<br/>
 𝐓𝐞𝐬𝐭𝐢𝐧𝐠: Jest, Postman, React Testing Library, Unit Testing, Functional Testing, Developer Tools<br/>
-𝐎𝐭𝐡𝐞𝐫 𝐒𝐤𝐢𝐥𝐥𝐬: Git, Github, Docker, VSCode, NPM, Vite, Webpack, REST APIs, CRUD operations, Mongoose, REST APIs, Cloudinary, Agile Methodology, Scrum, JWT, OOP
+𝐎𝐭𝐡𝐞𝐫 𝐒𝐤𝐢𝐥𝐥𝐬: Git, Github, Docker, VSCode, NPM, Vite, Webpack, REST APIs, CRUD operations, Mongoose, REST APIs, Cloudinary, Agile Methodology, Scrum, JWT
 
 See [my website](https://evanearle.com) for more information!
 
