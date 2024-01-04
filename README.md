@@ -72,23 +72,20 @@ See [my website](https://evanearle.com) for more information!
   
   <tr>
    <td width="50%" valign="top">
-      <h3 align="center">WeatherCheck</h3>
+      <h3 align="center">Skyward</h3>
         <br />
-      <a target="_blank" href="https://mern-weather.onrender.com/auth">
-            <img src="./weather.jpg" width="100%"  alt="weather"/>
+      <a target="_blank" href="https://mern-chat-2kmu.onrender.com/">
+            <img src="./chat.jpg" width="100%"  alt="weather"/>
         </a>
         <br />
         <p align="center">
-          
-  <!-- <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a> -->
-  <a href="https://mern-weather.onrender.com/auth" target="_blank">
+  <a href="https://mern-chat-2kmu.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React, Express, Node.js, MongoDB</strong> - A weather app to track forecasts and set your favourite locations.</p>
+        <p><strong>React, Express, Node.js, MongoDB, Socket.IO, TailwindCSS</strong> - A chat app to talk to your friends in real time one on one or in groups.</p>
     </td>
+    
      <td width="50%" valign="top">
       <h3 align="center">CCM Landing Page</h3>
       <br />
