@@ -52,6 +52,30 @@ See [my website](https://evanearle.com) for more information!
 
 <p><strong>React, Express, Node.js, MongoDB</strong> - Music player where users can search and play their favourite artists, find similar artists, and set their tracks to a favourites playlist. </p>
     </td>
+
+   <td width="50%" valign="top">
+      <h3 align="center">Skyward</h3>
+        <br />
+      <a target="_blank" href="https://mern-chat-2kmu.onrender.com/">
+            <img src="./chat.jpg" width="100%"  alt="weather"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://mern-chat-2kmu.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, Express, Node.js, MongoDB, Socket.IO, TailwindCSS</strong> - A chat app to talk to your friends in real time one on one or in groups.</p>
+    </td>
+
+
+    
+
+
+  </tr>
+  
+  <tr>
+    
  <td width="50%" valign="top">
       <h3 align="center">FilmFindr</h3>
       <br />
@@ -67,25 +91,6 @@ See [my website](https://evanearle.com) for more information!
       </p>
         <p><strong>React & Redux Toolkit, Node/Express, Material UI</strong> - A full stack movie catalogue application that displays the latest popular movies along with their details and the ability to search movies.</p>
     </td>
-
-  </tr>
-  
-  <tr>
-   <td width="50%" valign="top">
-      <h3 align="center">Skyward</h3>
-        <br />
-      <a target="_blank" href="https://mern-chat-2kmu.onrender.com/">
-            <img src="./chat.jpg" width="100%"  alt="weather"/>
-        </a>
-        <br />
-        <p align="center">
-  <a href="https://mern-chat-2kmu.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React, Express, Node.js, MongoDB, Socket.IO, TailwindCSS</strong> - A chat app to talk to your friends in real time one on one or in groups.</p>
-    </td>
-    
      <td width="50%" valign="top">
       <h3 align="center">CCM Landing Page</h3>
       <br />
