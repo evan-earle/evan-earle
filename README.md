@@ -57,7 +57,7 @@ See [my website](https://evanearle.com) for more information!
       <h3 align="center">Skyward</h3>
         <br />
       <a target="_blank" href="https://mern-chat-2kmu.onrender.com/">
-            <img src="./chat.jpg" width="100%"  alt="weather"/>
+            <img src="./chat.jpg" width="100%" height="50%"  alt="weather"/>
         </a>
         <br />
         <p align="center">
