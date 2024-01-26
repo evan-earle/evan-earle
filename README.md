@@ -33,25 +33,22 @@ See [my website](https://evanearle.com) for more information!
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Soundbloom</h3>
-        <br />
-        <a target="_blank" href="https://mern-music-7kvn.onrender.com/auth">
-            <img src="./music.jpg" width="100%" alt="Music App"/>
+     <td width="50%" valign="top">
+      <h3 align="center">FilmFindr</h3>
+      <br />
+        <a target="_blank" href="https://filmfindr-l0gn.onrender.com">
+          <img src="./movie.jpg" width="100%" alt="task management"/>
         </a>
-        <br />
-       
- <p align="center">
-   <!-- <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>   -->
-  <a href="https://mern-music-7kvn.onrender.com/auth" target="_blank">
+      <br />
+        <p align="center">
+
+  <a href="https://filmfindr-l0gn.onrender.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-
-<p><strong>React, Express, Node.js, MongoDB</strong> - Music player where users can search and play their favourite artists, find similar artists, and set their tracks to a favourites playlist. </p>
+        <p><strong>React & Context API, Node/Express, MongoDB, Tailwind CSS</strong> - A full stack movie catalogue application that displays the latest popular movies along with their details, a watchlist feature, and the ability to search movies.</p>
     </td>
+    
 
    <td width="50%" valign="top">
       <h3 align="center">Skyward</h3>
@@ -75,21 +72,24 @@ See [my website](https://evanearle.com) for more information!
   </tr>
   
   <tr>
-    
- <td width="50%" valign="top">
-      <h3 align="center">FilmFindr</h3>
-      <br />
-        <a target="_blank" href="https://filmfindr-l0gn.onrender.com">
-          <img src="./movies.jpg" width="100%" alt="task management"/>
+    <td width="50%" valign="top">
+      <h3 align="center">Soundbloom</h3>
+        <br />
+        <a target="_blank" href="https://mern-music-7kvn.onrender.com/auth">
+            <img src="./music.jpg" width="100%" alt="Music App"/>
         </a>
-      <br />
-        <p align="center">
-
-  <a href="https://filmfindr-l0gn.onrender.com" target="_blank">
+        <br />
+       
+ <p align="center">
+   <!-- <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>   -->
+  <a href="https://mern-music-7kvn.onrender.com/auth" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React & Context API, Node/Express, MongoDB, Tailwind CSS</strong> - A full stack movie catalogue application that displays the latest popular movies along with their details, a watchlist feature, and the ability to search movies.</p>
+
+<p><strong>React, Express, Node.js, MongoDB</strong> - Music player where users can search and play their favourite artists, find similar artists, and set their tracks to a favourites playlist. </p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">CCM Landing Page</h3>
