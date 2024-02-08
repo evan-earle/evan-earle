@@ -13,7 +13,7 @@
   <!-- <a href="https://shawncharles.com/angellist" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
   </a> -->
-  <a href="https://docs.google.com/document/d/1jrEcuCNcsgWC7tXnfj6DZnv4d_JMrjh47wTJ1nYV9gc" target="_blank">
+  <a href="https://evanearle.com/images/Resume.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
