@@ -21,7 +21,7 @@
 Full stack developer with experience in both large-scale projects and building smaller applications from scratch. Skilled in building APIs and responsive design working with React, Redux, Node, Express, MongoDB, Javascript, Typescript, HTML, and CSS. Comfortable working independently or collaborating in teams with several years of experience working remotely.
 
 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: JavaScript, TypeScript, HTML, CSS<br/>
-𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬/𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬: React.js, Node.js, Express.js, Redux, Socket.io, Tailwind CSS, SASS, Bootstrap, Material-UI<br/>
+𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬/𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬: React.js, Node.js, Express.js, Next.js, Redux, Socket.io, Tailwind CSS, SASS, Bootstrap, Material-UI<br/>
 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: MongoDB<br/>
 𝐂𝐥𝐨𝐮𝐝 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬: Firebase, AWS, Heroku, Netlify, Hosting Providers<br/>
 𝐓𝐞𝐬𝐭𝐢𝐧𝐠: Jest, Postman, React Testing Library, Unit Testing, Functional Testing, Developer Tools<br/>
