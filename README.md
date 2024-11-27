@@ -38,7 +38,7 @@ See [my website](https://evanearle.com) for more information!
       <br />
         <p align="center">
   <a href="https://www.diagnosix.ai/" target="_blank">
-    <img src="./diagnosix.png"/>
+    <img src="./diagnosix.png" target="_blank"/>
   </a>
       </p>
         <p><strong>AI-powered medical web application designed for healthcare professionals to perform differential diagnoses, built with Next.js, MongoDB, OpenAI API, Auth.js, and Tailwind CSS.</p>
@@ -52,7 +52,7 @@ See [my website](https://evanearle.com) for more information!
       <br />
         <p align="center">
   <a href="https://filmfindr-l0gn.onrender.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" target="_blank"/>
   </a>
       </p>
         <p><strong>React & Context API, Node/Express, MongoDB, Tailwind CSS</strong> - A full stack movie catalogue application that displays the latest popular movies along with their details, a watchlist feature, and the ability to search movies.</p>
@@ -74,7 +74,7 @@ See [my website](https://evanearle.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>   -->
   <a href="https://mern-music-7kvn.onrender.com/auth" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" target="_blank"/>
   </a>
       </p>
 
@@ -89,7 +89,7 @@ See [my website](https://evanearle.com) for more information!
         <br />
         <p align="center">
   <a href="https://mern-chat-2kmu.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" target="_blank"/>
   </a>
       </p>
         <p><strong>React, Express, Node.js, MongoDB, Socket.IO, TailwindCSS</strong> - A chat app to talk to your friends in real time one on one or in groups.</p>
