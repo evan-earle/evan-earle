@@ -36,10 +36,6 @@ See [my website](https://evanearle.com) for more information!
     <td width="50%" valign="top">
       <h3 align="center">Diagnosix.ai</h3>
       <br />
-        <a target="_blank" href="https://www.diagnosix.ai/">
-          <img src="" width="100%" alt="ccm"/>
-        </a>
-      <br />
         <p align="center">
   <a href="https://www.diagnosix.ai/" target="_blank">
     <img src="./diagnosix.png"/>
