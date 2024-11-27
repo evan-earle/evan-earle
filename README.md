@@ -45,7 +45,7 @@ See [my website](https://evanearle.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" target="_blank"/>
   </a>
       </p>
-        <p><strong>Next.js, Auth.js, OpenAI, MongoDB, Tailwind CSS</strong> - AI-powered medical web application designed for healthcare professionals to perform differential diagnoses, built with Next.js, MongoDB, OpenAI API, Auth.js, and Tailwind CSS.</p>
+        <p><strong>Next.js, Auth.js, OpenAI, MongoDB, Tailwind CSS</strong> - AI-powered medical web application designed for healthcare professionals to perform differential diagnoses and treatment options with the ability to discuss results with the AI</p>
     </td>
      <td width="50%" valign="top">
       <h3 align="center">FilmFindr</h3>
