@@ -37,6 +37,10 @@ See [my website](https://evanearle.com) for more information!
       <h3 align="center">Diagnosix.ai</h3>
       <br />
         <p align="center">
+           <a target="_blank" href="https://diagnosix.ai">
+          <img src="./diagnosix.png" width="100%" alt="movies"/>
+        </a>
+      <br />
   <a href="https://diagnosix.ai" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" target="_blank"/>
   </a>
