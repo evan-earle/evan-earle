@@ -37,8 +37,8 @@ See [my website](https://evanearle.com) for more information!
       <h3 align="center">Diagnosix.ai</h3>
       <br />
         <p align="center">
-  <a href="https://www.diagnosix.ai/" target="_blank">
-    <img src="./diagnosix.png" target="_blank"/>
+  <a href="https://diagnosix.ai" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" target="_blank"/>
   </a>
       </p>
         <p><strong>AI-powered medical web application designed for healthcare professionals to perform differential diagnoses, built with Next.js, MongoDB, OpenAI API, Auth.js, and Tailwind CSS.</p>
@@ -47,7 +47,7 @@ See [my website](https://evanearle.com) for more information!
       <h3 align="center">FilmFindr</h3>
       <br />
         <a target="_blank" href="https://filmfindr-l0gn.onrender.com">
-          <img src="./movie.jpg" width="100%" alt="task management"/>
+          <img src="./movie.jpg" width="100%" alt="movies"/>
         </a>
       <br />
         <p align="center">
@@ -84,7 +84,7 @@ See [my website](https://evanearle.com) for more information!
       <h3 align="center">Skyward</h3>
         <br />
       <a target="_blank" href="https://mern-chat-2kmu.onrender.com/">
-            <img src="./chat.jpg" width="100%" height="50%"  alt="weather"/>
+            <img src="./chat.jpg" width="100%" height="50%"  alt="music"/>
         </a>
         <br />
         <p align="center">
