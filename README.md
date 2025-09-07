@@ -27,7 +27,7 @@ Full stack developer with experience in both large-scale projects and building s
 𝐓𝐞𝐬𝐭𝐢𝐧𝐠: Jest, Postman, React Testing Library, Unit Testing, Functional Testing, Developer Tools<br/>
 𝐎𝐭𝐡𝐞𝐫 𝐒𝐤𝐢𝐥𝐥𝐬: Git, Github, Docker, VSCode, NPM, Vite, Webpack, REST APIs, CRUD operations, Mongoose, REST APIs, Cloudinary, Agile Methodology, Scrum, JWT, OOP
 
-See [my website](https://evanearle.com) for more information!
+<!--See [my website](https://evanearle.com) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -104,7 +104,7 @@ See [my website](https://evanearle.com) for more information!
   </tr>
     
  
-</table>
+</table>-->
 
 <h1 align="center">Technologies</h1>
 
