@@ -76,7 +76,7 @@ Full stack developer with experience in both large-scale projects and building s
  <p align="center">
    <!-- <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>   -->
+  </a>   
   <a href="https://mern-music-7kvn.onrender.com/auth" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white" target="_blank"/>
   </a>
